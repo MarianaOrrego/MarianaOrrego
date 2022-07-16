@@ -27,3 +27,6 @@
   <a href="https://t.me/MarianaO_F"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marianaorregofranco-31198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+![Snake animation](https://github.com/MarianaOrrego/MarianaOrrego/blob/output/github-contribution-grid-snake.svg)
