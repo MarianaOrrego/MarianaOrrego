@@ -1,16 +1,15 @@
-### Hi there 👋
+### ¡Hola! Soy Mariana Orrego
 
-<!--
-**MarianaOrrego/MarianaOrrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Trabajo como Desarrolladora Web Front-end
+- 📘 Aprendiendo React y React Native
+- 🤖 Realizando un diplomado en IA con la Universidad Autonoma de Occidente - Cali
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/MarianaOrrego"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaOrrego&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrrego&layout=compact&langs_count=8&theme=cobalt"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  
+</div>
