@@ -1,4 +1,6 @@
-### ¡Hola! Soy Mariana Orrego
+## ¡Hola! Soy Mariana Orrego
+
+**Un poco sobre mi...**
 
 - 🖥️ Trabajo como Desarrolladora Web Front-end
 - 📘 Aprendiendo React y React Native
@@ -9,6 +11,9 @@
   <img heigth="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=MarianaOrrego&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrrego&layout=compact&langs_count=8&theme=cobalt"/>
 </div>
+<br>
+
+> **Lenguajes y herramientas**
 
 <div style="display: inline_block"><br>
   <img align="center"  alt="JS" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179368270-c1313bfe-21b5-4da0-8188-854e951491d6.png"/>
@@ -17,6 +22,7 @@
   <img align="center"  alt="CSS" heigth="30" width="40" src="https://user-images.githubusercontent.com/83648336/179368391-d653e57c-a181-4c41-bb76-e51e98066901.png"/>
   <img align="center"  alt="React" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179368081-ff8fb1f9-e20c-4097-907b-3a5581115b95.png"/> 
   <img align="center"  alt="Python" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179368646-e649ae56-ba92-44b7-9a5f-a00ed9a65244.png"/> 
+  <img align="center"  alt="Python" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179370610-38249d64-977b-42d2-b27e-64a9b6a7590b.png"/> 
   <img align="right" width="140" alt="Profile" src="https://user-images.githubusercontent.com/83648336/179369390-83d3e4bd-c49c-4fdd-9581-44259a9d0c3f.png"/> 
 </div>
 
