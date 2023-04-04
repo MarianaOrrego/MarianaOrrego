@@ -1,6 +1,6 @@
-## ¡Hola! Soy Mariana Orrego
+# ¡Hola! Soy Mariana Orrego
 
-# 💫 Sobre mi:
+## 💫 Sobre mi:
 🖥  | Trabajo como Desarrolladora Web Front-end & Mobile con VTEX<br>📘   | Conocimiento y manejo de frameworks Vue.js, React.js y React Native<br>👩🏻‍🏫 | Docente 
 
 <div style="display: inline_block"> 
