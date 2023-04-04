@@ -1,28 +1,30 @@
 ## ¡Hola! Soy Mariana Orrego
 
-*Un poco sobre mi...*
+# 💫 Sobre mi:
+🖥  | Trabajo como Desarrolladora Web Front-end & Mobile con VTEX<br>📘   | Conocimiento y manejo de frameworks Vue.js, React.js y React Native<br>👩🏻‍🏫 | Docente 
 
-- 🖥 Trabajo como Desarrolladora Web Front-end
-- 📘 Aprendiendo React y React Native
-- 🤖 Realizando un diplomado en IA con la Universidad Autonoma de Occidente - Cali
-
-> *Lenguajes y herramientas*
-
-<div style="display: inline_block"><br>
-  <img align="center"  alt="JS" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179368270-c1313bfe-21b5-4da0-8188-854e951491d6.png"/>
-  <img align="center"  alt="TS" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179368589-481988d4-af29-4036-ba90-1a5deff44e0c.png"/>
-  <img align="center"  alt="HTML" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179368348-06214dda-1ff2-4fae-ab46-66579cb1a569.png"/>
-  <img align="center"  alt="CSS" heigth="30" width="40" src="https://user-images.githubusercontent.com/83648336/179368391-d653e57c-a181-4c41-bb76-e51e98066901.png"/>
-  <img align="center"  alt="React" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179368081-ff8fb1f9-e20c-4097-907b-3a5581115b95.png"/> 
-  <img align="center"  alt="Python" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179368646-e649ae56-ba92-44b7-9a5f-a00ed9a65244.png"/> 
-  <img align="center"  alt="Python" heigth="40" width="45" src="https://user-images.githubusercontent.com/83648336/179370610-38249d64-977b-42d2-b27e-64a9b6a7590b.png"/> 
+<div style="display: inline_block"> 
   <img align="right" width="140" alt="Profile" src="https://user-images.githubusercontent.com/83648336/179369390-83d3e4bd-c49c-4fdd-9581-44259a9d0c3f.png"/> 
 </div>
 
-##
+## 🌐 Social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marianaorregofranco-31198) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mxria__xf__)
 
-<div>
-  <a href="mailto:mariana.orregof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/MarianaO_F" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/marianaorregofranco-31198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+# 💻 Tecnologías:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub:
+![](https://github-readme-stats.vercel.app/api?username=MarianaOrrego&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MarianaOrrego&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrrego&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trofeos
+![](https://github-profile-trophy.vercel.app/?username=MarianaOrrego&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Repo Contribuciones
+![](https://github-contributor-stats.vercel.app/api?username=MarianaOrrego&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MarianaOrrego&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
