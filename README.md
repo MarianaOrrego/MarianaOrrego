@@ -1,7 +1,7 @@
 # ¡Hola! Soy Mariana Orrego
 
 ## 💫 Sobre mi:
-🖥  | Trabajo como Desarrolladora Web Front-end & Mobile con VTEX<br>📘   | Conocimiento y manejo de frameworks Vue.js, React.js y React Native<br>👩🏻‍🏫 | Docente 
+🖥  | Trabajo como Desarrolladora Web Front-end & Mobile con VTEX<br>📘   | Conocimiento y manejo de frameworks Vue.js, React.js y React Native<br>👩🏻‍🏫 | Docente <br> 👩🏻‍🎓 | Postulante a Maestría en Ciencia de Datos 
 
 <div style="display: inline_block"> 
   <img align="right" width="140" alt="Profile" src="https://user-images.githubusercontent.com/83648336/179369390-83d3e4bd-c49c-4fdd-9581-44259a9d0c3f.png"/> 
