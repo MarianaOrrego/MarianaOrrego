@@ -1,7 +1,7 @@
 # ¡Hello! I'm Mariana Orrego
 
 ## 💫 About me:
-🖥 | I work as a Front-End & Mobile Web Developer with VTEX<br>📘 | Knowledge and experience with Vue.js, React.js, and React Native frameworks<br>👩🏻‍🏫 | Teacher
+🖥 | I work as a Front-End & Mobile Web Developer with VTEX<br>📘 | Knowledge and experience with Vue.js, React.js, and React Native frameworks
 
 <div style="display: inline_block"> 
   <img align="right" width="140" alt="Profile" src="https://user-images.githubusercontent.com/83648336/179369390-83d3e4bd-c49c-4fdd-9581-44259a9d0c3f.png"/> 
