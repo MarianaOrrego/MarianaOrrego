@@ -1,4 +1,5 @@
 ![Header](https://github.com/MarianaOrrego/MarianaOrrego/assets/83648336/bddcc35e-4bed-4eaf-be71-5b632ff180f8)
+![github-header-image-large](https://github.com/MarianaOrrego/MarianaOrrego/assets/83648336/023a079b-de3d-4b9b-a471-a7bbcfe5857a)
 
 ## 💫 About me:
 
