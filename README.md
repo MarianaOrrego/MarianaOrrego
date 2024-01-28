@@ -1,6 +1,7 @@
-# ¡Hello! I'm Mariana Orrego
+![Header](https://github.com/MarianaOrrego/MarianaOrrego/assets/83648336/bddcc35e-4bed-4eaf-be71-5b632ff180f8)
 
 ## 💫 About me:
+
 🖥 | I work as a Front-End & Mobile Web Developer with VTEX<br>📘 | Knowledge and experience with Vue.js, React.js, and React Native frameworks
 
 <div style="display: inline_block"> 
