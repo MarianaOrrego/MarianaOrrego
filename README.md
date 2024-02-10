@@ -1,15 +1,14 @@
 
 ![Header](https://github.com/MarianaOrrego/MarianaOrrego/assets/83648336/023a079b-de3d-4b9b-a471-a7bbcfe5857a)
 
-## 💫 About me:
-📘 | Knowledge and experience with Typescript, Javascript, React.js, and React Native frameworks<br>
-🖥 | I worked as a Front-End & Mobile Developer with VTEX
-
-<div style="display: inline_block"> 
-  <img align="right" width="140" alt="Profile" src="https://user-images.githubusercontent.com/83648336/179369390-83d3e4bd-c49c-4fdd-9581-44259a9d0c3f.png"/> 
-</div>
+## 💫 Tech Enthusiast:
+Hello there! 👋 I'm Mariana, a passionate Front-End & Mobile Developer with expertise in TypeScript, JavaScript, React.js, and React Native frameworks. I enjoy learning and constantly advancing my skills, staying at the forefront. That's why I'm currently learning Angular and improving my database skills.
 
 ## 🌐 Social:
+Thank you for taking the time to explore my profile! 
+
+If you'd like to collaborate on a project or discuss opportunities, feel free to reach out:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marianaorregofranco-31198) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mfx__3)
 
