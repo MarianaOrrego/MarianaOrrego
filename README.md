@@ -13,6 +13,9 @@ If you'd like to collaborate on a project or discuss opportunities, feel free to
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mfx__3)
 
 ## 💻 Technologies:
+
+This is an illustrated list of the technologies I have become proficient in while working on various projects and/or studying.
+
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
