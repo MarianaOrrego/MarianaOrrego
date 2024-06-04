@@ -2,7 +2,7 @@
 ![Header](https://github.com/MarianaOrrego/MarianaOrrego/assets/83648336/023a079b-de3d-4b9b-a471-a7bbcfe5857a)
 
 ## 💫 Tech Enthusiast:
-Hello there! 👋 I'm Mariana, a passionate Web & Mobile Front-End Developer with expertise in TypeScript, JavaScript, React.js, and React Native frameworks. I enjoy learning and constantly advancing my skills, staying at the forefront. That's why I'm currently learning Angular and improving my database skills.
+Hello there! 👋 I'm Mariana
 
 ## 🌐 Social:
 Thank you for taking the time to explore my profile! 
