@@ -2,7 +2,7 @@
 ![Header](https://github.com/MarianaOrrego/MarianaOrrego/assets/83648336/023a079b-de3d-4b9b-a471-a7bbcfe5857a)
 
 ## 💫 Tech Enthusiast:
-Hello there! 👋 I'm Mariana
+Hello there! 👋 I'm Mariana. I'm working as a Software Engineer and studying different fields related to cloud computing, containerization, CI/CD, automation, etc. 
 
 ## 🌐 Social:
 Thank you for taking the time to explore my profile! 
